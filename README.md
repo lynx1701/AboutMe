@@ -58,9 +58,8 @@
 |:--:|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/> | **React** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="48" height="48" alt="Next.js"/> | **Next.js** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/> | **Vue 3 (Composition API)** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/> | **Vue.js** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/> | **Node.js / Express** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remix/remix-original.svg" width="48" height="48" alt="Remix"/> | **Remix** |
 
 <!-- ----------  CLOUD & DEVOPS  ---------- -->
 #### ☁️ Cloud & DevOps
